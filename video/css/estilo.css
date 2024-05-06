@@ -1,0 +1,51 @@
+#video {
+    height: 400px; ;
+    width: 400px; ;
+    margin-right: -900px;
+    margin-top: -390px;
+    margin-bottom: -30px;
+    
+}
+
+
+
+#logo {
+    position: absolute;
+    top: 10px; 
+    right: 10px; 
+    width: 200px; 
+    height: auto; 
+    
+    
+}
+
+#html,body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(171, 226, 239);
+
+
+    
+
+
+
+}
+
+h1,h2 {
+    color: rgb(6, 109, 113);
+    font-size: 300%;
+    font-family: fantasy;
+
+}
+
+#iframe {
+    margin-left: -900px;
+    margin-top: 8%;
+}
+
+
+
+
